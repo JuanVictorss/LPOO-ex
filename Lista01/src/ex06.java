@@ -29,6 +29,7 @@ public class ex06 {
 		System.out.println("Pessoas abaixo do peso: " + below);
 		System.out.println("Pessoas no peso ideal: " + ideal);
 		System.out.println("Pessoas acima do peso: " + above);
+		read.close();
 	}
 
 }
